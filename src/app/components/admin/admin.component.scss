@@ -45,13 +45,17 @@ mat-header-cell, mat-cell {
 
 }
 
-.test2 {
+.listing-container {
+  margin: 30px;
+  border: 5px solid green;
+  padding: 50px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   vertical-align: middle;
   justify-self: center;
 }
+
 
 button {
   height: 40px;
